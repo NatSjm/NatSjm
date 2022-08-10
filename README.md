@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NatSjm
+- 👀 I’m interested in JavaScript development
+- 🌱 I’m currently learning Next.js and Tailwind CSS
