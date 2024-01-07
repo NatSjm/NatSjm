@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NatSjm
 - 👀 I’m interested in JavaScript development
-- 🌱 I’m currently learning Next.js, TypeScript and Tailwind CSS
+- 🌱 Since I want to be a developer with T-shaped skills, I am currently learning Java.
