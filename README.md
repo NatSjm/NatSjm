@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NatSjm
 - 👀 I’m interested in JavaScript development
-- 🌱 Since I want to be a developer with T-shaped skills, I am currently learning Java.
+- 🌱 I am currently learning Java.
